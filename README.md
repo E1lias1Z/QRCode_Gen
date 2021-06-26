@@ -10,7 +10,11 @@ QR-код Генератор - программа, позволяющая ген
 Для второго рекомендуется вводить изначальный путь к указанной папке сохранения png-файла сгенерированного QR-кода,
 который можно скопировать прямиком из панели пути вверху окна папки, либо же зайдя в "Свойства" папки, и скопировав путь из строчки 'Расположение'.
 
+Кстати, "копипаст" (комбинация 'Ctrl+C'/'Ctrl+V') в программе доступен лишь с английской раскладкой.
+
 Если все введено корректно, то внизу окна программы выведется сообщение об успешной генерации Qr-кода.
+
+Исполняемый файл (qr_gen.exe) находится в папке \dist\qr_gen
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 EN:
 
@@ -25,4 +29,8 @@ For the second, it is recommended to enter the original path to the specified fo
 which can be copied directly from the path panel at the top of the folder window, or
 by going to the "Properties" folder, and copying the path from the line 'Location'.
 
+By the way, "copy-paste" (the combination 'Ctrl + C' / 'Ctrl + V') in the program is available only with the English layout.
+
 If everything is entered correctly, then at the bottom of the program window a message about the successful generation of the QR code will be displayed.
+
+The executable file (qr_gen.exe) is located in the \ dist \ qr_gen folder
